@@ -9,7 +9,7 @@ Objetivos del proyecto:
 3. Resolver el siguiente problema:
 
    ```bash
-   Problema: Crear Objeto de un Librp
+   Problema: Crear Objeto de un Libro
    ```
 
 4. Crea un 'commit' en tu repositorio con este archivo para guardar los cambios y crear una nueva versión de tu repositorio.
